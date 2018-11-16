@@ -1,7 +1,7 @@
 # Attention: EOL will be at 31 Dec 2018
 Repository move to :
-* [DockerHub (pressmaninc/pm-kusanagi-docker)](https://hub.docker.com/r/pressmaninc/pm-kusanagi-php72/)
-* [GitHub (presmaninc/pm-kusanagi-docker)](https://github.com/pressmaninc/pm-kusanagi-nginx)
+* [DockerHub (pressmaninc/pm-kusanagi-nginx)](https://hub.docker.com/r/pressmaninc/pm-kusanagi-nginx/)
+* [GitHub (presmaninc/pm-kusanagi-nginx)](https://github.com/pressmaninc/pm-kusanagi-nginx)
 
 # pm-kusanagi-nginx
 
